@@ -14,9 +14,9 @@ I use AI & Prompt Engineering to automate analysis and genrate business insights
 2. Customer Analysis using SQL & Python
 3. Excel to power BI Automation Project
 
-#tools
+## tools
 Excel | SQL | Python | Power BI | ChatGpt | MS Co-pilot
 
 
 
-My Data Analytics &amp; BI Portfolio using Excel, SQL, Python, Power BI and AI
+
