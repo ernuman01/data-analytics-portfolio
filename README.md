@@ -1,5 +1,5 @@
 # data-analytics-portfolio
-# Aout Me
+## About Me
 I am a DATA / MIS Analyst with 1+ year of experience in Excel, SQL, Python and Power BI.
 I use AI & Prompt Engineering to automate analysis and genrate business insights.
 
